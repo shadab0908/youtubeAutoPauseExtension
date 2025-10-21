@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 420px;
+        margin: 50px;
+      }
+      label {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      input[type="checkbox"] {
+        transform: scale(1.2);
+      }
+    </style>
+  </head>
+  <body>
+    <h3>🎬 YouTube Auto Pause</h3>
+    <label>
+      Auto-resume on return
+      <input type="checkbox" id="autoResumeToggle" />
+    </label>
+    <p style="font-size: 12px; color: rgb(141, 130, 130);">
+      Pauses video when you switch tabs/windows.
+    </p>
+    <script src="popup.js"></script>
+  </body>
+</html>
