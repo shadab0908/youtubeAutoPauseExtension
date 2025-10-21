@@ -33,3 +33,21 @@ Perfect for multitaskers who don’t want to miss a moment!
 4. Click Load unpacked and select the project folder.
 
 You’re all set! ✅ The extension will now work automatically on YouTube.
+
+💡 Future Improvements
+
+Add customizable settings for auto-pause conditions.
+
+Add dark/light themes for popup UI.
+
+Support for other platforms like Netflix, Spotify Web, etc.
+
+👨‍💻 Developer
+
+Shadab Javed Mulla
+🎓 B.Tech Student, Vishwakarma Institute of Information Technology
+💼 Passionate about Web Development, Automation, and Smart Tech
+📞 9730750908
+
+⭐ If you like this project, consider giving it a star on GitHub!
+Your feedback and suggestions are always welcome 🙌
