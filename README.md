@@ -46,7 +46,9 @@ Support for other platforms like Netflix, Spotify Web, etc.
 
 Shadab Javed Mulla
 🎓 B.Tech Student, Vishwakarma Institute of Information Technology
+
 💼 Passionate about Web Development, Automation, and Smart Tech
+
 📞 9730750908
 
 ⭐ If you like this project, consider giving it a star on GitHub!
