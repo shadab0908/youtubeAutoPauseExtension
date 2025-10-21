@@ -8,7 +8,7 @@ Perfect for multitaskers who don’t want to miss a moment!
 ## 🚀 Features
 - ⏸️ Automatically pauses the video when you leave the YouTube tab.  
 - ▶️ Resumes playback when you come back.  
-- 🔊 Optionally pauses when you mute or lock your screen.  
+- 🔇 Optionally pauses when you mute or lock your screen.  
 - ⚙️ Lightweight and privacy-friendly — no user data collected.  
 
 ---
@@ -22,16 +22,14 @@ Perfect for multitaskers who don’t want to miss a moment!
 
 ## 🧩 How to Install (Manually)
 1. Download or clone this repository.  
-   ```bash
+   ```
    git clone https://github.com/shadab0908/youtubeAutoPauseExtension.git
+2. Open Chrome and go to:
+   ```
+   chrome://extensions/
 
+3. Turn on Developer Mode (top-right corner).
 
+4. Click Load unpacked and select the project folder.
 
-Open Chrome and go to:
-
-chrome://extensions/
-
-
-Turn on Developer Mode (top-right corner).
-Click Load unpacked and select the project folder.
 You’re all set! ✅ The extension will now work automatically on YouTube.
