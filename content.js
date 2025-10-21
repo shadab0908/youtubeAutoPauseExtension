@@ -1,9 +1,9 @@
 console.log("YouTube Auto Pause Pro loaded.");
 
-// Listen for setting changes from popup
+
 let autoResume = false;
 
-// Load saved setting
+
 chrome.storage.sync.get("autoResume", (data) => {
   autoResume = data.autoResume ?? false;
   console.log("Auto-resume:", autoResume);
@@ -28,7 +28,7 @@ document.addEventListener("visibilitychange", () => {
   }
 });
 
-// Listen for popup updates in real-time
+
 chrome.runtime.onMessage.addListener((msg) => {
   if (msg.type === "updateSettings") {
     autoResume = msg.autoResume;
